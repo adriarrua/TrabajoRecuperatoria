@@ -1,0 +1,11 @@
+.btn-default:after{  
+	content: 'Me Gusta';
+}
+.btn-primary:after{
+	content: 'Ya no me Gusta';
+}
+.btn-primary:hover{
+	background-color: #c9302c;
+	border-color: #ac2925;
+}
+
